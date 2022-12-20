@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameemee&theme=noctis_minimus)](https://github.com/ameemee/ameemee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameemee&layout=compact&theme=noctis_minimus)](https://github.com/ameemee?tab=repositories)
+
+### Check out these projects!
+<a href="https://github.com/ameemee/ameemee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ameemee&repo=ameemee&show_owner=true&theme=noctis_minimus" />
+</a>
