@@ -2,17 +2,17 @@
 
 Dear, Reader:
 
-I'm Amy! A 3rd Year **University of Waterloo** student studying **CS, Statistics, Combinatorics & Optimization**. 
+I'm Amy! A **4th Year University of Waterloo** student studying **CS, Statistics, Combinatorics & Optimization**. 
 
-I like to think of myself almost like a stem cell. That is: being continuously adaptable, curious, and open-minded in my search for issues to tackle with positively impactful software. My degree also allows me to process these problems with a mathematical edge.
+As I search for issues to tackle with positively impactful software, my degree allows me to process problems with a mathematical edge. 
 
-My previous internships and side projects have allowed me to explore **web development, test automation, and leadership in project management**. Continuous learning leads the way!
+Through internships and side projects, I have explored **web development, test automation, and leadership in project management**. Continuous learning leads the way!
 
 📊 To stay true to my degree, here is some data:
 * Languages: C, C++, Assembly, JavaScript, TypeScript, Python, HTML, CSS, SQL, (amongst English, Mandarin, and French!)
 * Technologies: Git, ReactJS, RestfulAPI, SQL, Bash, Sentry, Segment, Optimizely, Figma, Fullstory, TestIM
 
-Come find me on my [**website**](https://personalwebsite-sage.vercel.app/), or chat over [**LinkedIn**](https://www.linkedin.com/in/amyzhuo/)!
+Come find me on my [**website**](https://personalwebsite-sage.vercel.app/), or chat over [**LinkedIn**](https://www.linkedin.com/in/amyzhuo/)! 💌
 
 Thanks for visiting my Github profile :)
 
