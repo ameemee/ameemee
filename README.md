@@ -1,20 +1,8 @@
-### Hello, World! 👋
+### Hello, 你好, salut!
 
-Dear, Reader:
-
-I'm Amy! A **4th Year University of Waterloo** student studying **CS, Statistics, Combinatorics & Optimization**. 
-
-As I search for issues to tackle with positively impactful software, my degree allows me to process problems with a mathematical edge. 
-
-Through internships and side projects, I have explored **web development, test automation, and leadership in project management**. Continuous learning leads the way!
-
-📊 To stay true to my degree, here is some data:
-* Languages: C, C++, Assembly, JavaScript, TypeScript, Python, HTML, CSS, SQL, (amongst English, Mandarin, and French!)
-* Technologies: Git, ReactJS, RestfulAPI, SQL, Bash, Sentry, Segment, Optimizely, Figma, Fullstory, TestIM
+I'm Amy. SWE @ Pinterest. Exploring the mathematical, computational, and artistic horizons. Learning, creating. ✨👩🏻‍💻
 
 Come find me on my [**website**](https://personalwebsite-sage.vercel.app/), or chat over [**LinkedIn**](https://www.linkedin.com/in/amyzhuo/)! 💌
-
-Thanks for visiting my Github profile :)
 
 <!--
 **ameemee/ameemee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
